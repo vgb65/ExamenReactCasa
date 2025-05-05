@@ -8,7 +8,7 @@ Crea un gestor de Elementos
 1. Componente principal: debe mantener en su estado un conjunto de objetos, cada uno con: 
    - id: identificador único.
    - texto: contenido del elemento.
-   <!-- Llama a una de las funciones con el nombre Francisco -->
+   <!-- Llama a una de las funciones con el nombre Victor -->
    - completado: booleano que indica si el elemento está marcado.
 2. Componente secundario: representa un solo objeto y debe:
    - Mostrar un checkbox para marcar o desmarcar su estado.
